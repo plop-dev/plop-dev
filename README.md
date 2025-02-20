@@ -10,3 +10,4 @@ https://maximec.dev
 
 Contact me on discord:
 plop_dev
+or by email: <him@maximec.dev>
